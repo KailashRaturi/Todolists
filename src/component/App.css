@@ -1,0 +1,87 @@
+*{box-sizing: border-box;margin: 0%;padding: 0%;}
+
+div.main-div{
+    background-color: black;
+    height: 100vh; 
+}
+.field{ 
+    height:26px;
+    width: 250px; 
+    padding-left: 1px; 
+}
+div.child-div{
+   float: right;
+   width: 60%;
+   padding-top: 5%;
+}
+.fig{
+    padding-bottom: 20px;
+    padding-left: 40px;
+    color: aliceblue;
+}
+
+img{
+    height: 20%;
+    width: 100px;
+    margin-left: 60px;
+}
+.add-btn{
+    margin-left: -18px;
+
+}
+.add-btn:hover{color:rgb(94, 170, 98);} 
+
+.eachItem{
+    height: 25px;
+    width: 250px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(37, 36, 38);
+    background-color: aliceblue;
+    margin-top: 7px;
+    padding-left: 3px;
+    border-radius: 5px;
+    background-color:  rgb(255, 232, 168);
+}
+
+.eachItem:hover{
+    background-color: aliceblue;
+    color:black;
+}
+.delete{
+    color:black;
+    float: right;
+    margin-top:-20px;
+    padding-right: 5px;
+}
+.delete:hover{color: rgb(231, 47, 47);}
+
+.Edit{ 
+    margin-top:10px;
+    color: rgb(0, 0, 0);
+    float: left;
+    margin-top: -20px;
+    margin-left: 205px;
+    }
+.Edit:hover{
+    color:rgb(94, 170, 98) ;
+}
+.btn-effect04{
+    margin-left: 65px;
+    margin-top: 10px;
+    height: 30px;
+    width: 100px;
+
+}
+.btn-effect04:hover{
+   background-color:  rgb(69, 148, 217);
+   
+}
+.Update{
+    float:center;
+    margin-left: -20px;
+    
+}
+.Update:hover{
+    color:rgb(94, 170, 98) ;
+}
+
