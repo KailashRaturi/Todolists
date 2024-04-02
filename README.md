@@ -1,3 +1,11 @@
+hi everyone i made a simple todo list app by using react framework.In this you can easily Add, delete and create a list items!
+how to run ---> 1. download zip formate of this project from code tab.
+2.Copy the https link from tcode tab.
+3.Open gitbash on your pc within new folder.
+4.Enter keyword git clone with http address that you have copied and hit enter.
+5.Now enter npm intall (this will download all the dependency).
+6.Now enter npm start to run the project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
